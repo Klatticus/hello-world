@@ -1,2 +1,3 @@
 # hello-world
-Test repository
+
+Sample repository to try out GitHub features
